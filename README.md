@@ -36,4 +36,4 @@ This project focuses on predicting the severity of accidents using the **US Road
 2. Install Libraries
    ```bash
    pip install -r requirements.txt
-3. Download the dataset from [Link Text](https://drive.google.com/file/d/1edKrdWNOcgbAo2JtckX-PEyM0FdEq4EG/view?usp=drive_link)
+3. Download the dataset from [Link Text](https://drive.google.com/file/d/1edKrdWNOcgbAo2JtckX-PEyM0FdEq4EG/view?usp=drive_link) in the same directory.
