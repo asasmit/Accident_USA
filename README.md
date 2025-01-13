@@ -28,3 +28,12 @@ This project focuses on predicting the severity of accidents using the **US Road
 
 ### Target Variable:
 - **Accident Severity**: The severity of accidents, ranging from minor to severe(0-3) with grater the number, severe the accident.
+
+### Instructions to run:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/asasmit/Accident_USA
+2. Install Libraries
+   ```bash
+   pip install -r requirements.txt
+3. Download the dataset from [Link Text](https://drive.google.com/file/d/1edKrdWNOcgbAo2JtckX-PEyM0FdEq4EG/view?usp=drive_link)
